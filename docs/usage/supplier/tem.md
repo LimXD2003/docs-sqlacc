@@ -1,12 +1,12 @@
 ---
-sidebar_position: 1
-title: Onboarding
+sidebar_position: 2
+title: tem
 description: MyInvois onboarding process
-slug: /usage/myinvois/onboarding
+slug: /usage/supplier/tem
 tags: ["SQL Account", "Usage", "MyInvois", "E-Invoice", "Onboarding"]
 ---
 
-To Streamline the e-invoice submission through SQL Account, you will need to go through a simple onboarding process.
+To streamline the e-invoice submission through SQL Account, you will need to go through a simple onboarding process.
 
 ## Company Profile Setup
 

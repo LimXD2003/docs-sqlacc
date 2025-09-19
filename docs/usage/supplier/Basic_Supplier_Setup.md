@@ -121,9 +121,12 @@ You can EDIT the supplier, CLICK on EDIT button. See screenshot below.
 
 ![Maintain-Supplier8](../../../static/img/getting-started/user-guide/LimYuHang8.jpg)
 
-#### NOTE : 
-#### 1. User able to EDIT the supplier data depends on the user access rights granted.
-#### 2. Any EDITING the system will be audited (logged) with changes made.
+:::note
+ 
+ 1. User able to EDIT the supplier data depends on the user access rights granted.
+ 2. Any EDITING the system will be audited (logged) with changes made.
+
+:::
 
 ### Save Supplier
 
@@ -137,8 +140,9 @@ You can DELETE the unwanted supplier data. See screenshot below.
 
 ![Maintain-Supplier10](../../../static/img/getting-started/user-guide/LimYuHang10.jpg)
 
-#### NOTE : 
-#### 1. User able to DELETE the supplier data depends on the user access rights granted.
+:::note  
+ 1. User able to DELETE the supplier data depends on the user access rights granted.
+:::
 
 ### Supplier Code Format
 
@@ -146,9 +150,10 @@ Supplier code can be AUTO generate or overwrite it manually. See screenshot belo
 
 ![Maintain-Supplier11](../../../static/img/getting-started/user-guide/LimYuHang11.jpg)
 
-#### IMPORTANT : 
-#### 1. Every supplier code is unique. 
-#### 2. If the system found there is an duplicate code trying to save, users will be notify by warning message. See screenshot below.
+:::note Important
+ 1. Every supplier code is unique. 
+ 2. If the system found there is an duplicate code trying to save, users will be notify by warning message. See screenshot below.
+:::
 
 You can set the supplier code format via Tools | Options...(Supplier). See screenshot below.
 
@@ -318,8 +323,9 @@ Purpose to knock-off the invoices:
 
 ![Supplier-Payment8](../../../static/img/getting-started/user-guide/LimYuHangB8.jpg)
 
-#### Note:
-#### Unapplied amount shows the Supplier payment amount not allocated/knock-off against any outstanding invoices and debit note.
+:::note
+ Unapplied amount shows the Supplier payment amount not allocated/knock-off against any outstanding invoices and debit note.
+:::
 
 ### Attachment
 
@@ -614,8 +620,9 @@ Purpose to knock-off the invoices:
 
 ![Supplier-Refund8](../../../static/img/getting-started/user-guide/LimYuHangE8.jpg)
 
-#### Note:
-#### Refund Unapplied amount shows the supplier refund amount not allocated/knock-off against any unapplied amount in supplier payment and credit note.
+:::note
+ Refund Unapplied amount shows the supplier refund amount not allocated/knock-off against any unapplied amount in supplier payment and credit note.
+:::
 
 ### Attachment
 
@@ -713,8 +720,9 @@ Purpose to knock-off the invoices:
 
 ![Supplier-Contra6](../../../static/img/getting-started/user-guide/LimYuHangF6.jpg)
 
-#### Note:
-#### Refund unapplied amount shows the supplier contra amount not allocated/knock-off against any outstanding supplier invoices and debit note.
+:::note
+ Refund unapplied amount shows the supplier contra amount not allocated/knock-off against any outstanding supplier invoices and debit note.
+:::
 
 ### Attachment
 
